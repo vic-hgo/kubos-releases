@@ -80,6 +80,7 @@ Funciona no Windows 10 e 11 (64 bits). Português e inglês.
 
 As novidades de cada versão estão em [Releases](https://github.com/vic-hgo/kubos-releases/releases). As mais recentes:
 
+- **0.1.28** (08/11/2026): achar o celular pela voz com mais jeitos de pedir, como "procura meu celular" ou "cadê meu celular?".
 - **0.1.27** (08/11/2026): a gravação de reunião aguenta microfone lento ou com defeito, acabamento da Dock recolhida, atualização sem piscar e app do celular com widgets novos.
 - **0.1.26** (02/11/2026): o Kubos chega ao celular, com instalação pelo QR do Hub.
 - **0.1.24** (01/11/2026): notas que dá para organizar, Kubos de Feltro e cinco degradês para a Dock.
