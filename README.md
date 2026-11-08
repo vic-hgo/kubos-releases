@@ -71,6 +71,13 @@ Cada arquivo mostra de onde veio, o celular ou o computador. Tudo passa pelo Wi-
   <br><sub>A Prateleira na Dock: é só arrastar um item para o Explorer, o navegador ou outro app.</sub>
 </p>
 
+<p align="center">
+  <img src="assets/celular-prateleira.png" width="300" alt="A Prateleira no app do celular, com Mandar foto, Mandar arquivo e Baixar tudo">
+  &nbsp;
+  <img src="assets/celular-controle.png" width="300" alt="A aba Controle no app do celular, com música, som e microfone do PC">
+  <br><sub>No celular: a mesma Prateleira, e o PC na palma da mão (música, som, microfone, foco e travar a tela).</sub>
+</p>
+
 ### O Hub
 
 Tudo se ajusta numa janela só: temas, voz, reuniões, agenda, atalhos e o celular. A primeira página explica cada parte do Kubos com exemplos.
@@ -152,6 +159,13 @@ Each file shows where it came from, phone or computer. Everything travels over y
 
 <p align="center">
   <img src="assets/prateleira.png" width="640" alt="The Shelf on the dock, with a photo sent from the phone">
+</p>
+
+<p align="center">
+  <img src="assets/celular-prateleira.png" width="300" alt="The Shelf in the phone app">
+  &nbsp;
+  <img src="assets/celular-controle.png" width="300" alt="The Control tab in the phone app">
+  <br><sub>On the phone (shown in Portuguese): the same Shelf, plus your PC in your hand (music, sound, microphone, focus and screen lock).</sub>
 </p>
 
 ### How to install
