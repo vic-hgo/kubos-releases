@@ -13,6 +13,8 @@
   <a href="https://github.com/vic-hgo/kubos-releases/releases/latest"><b>⬇ Baixar a versão mais recente</b></a>
   &nbsp;·&nbsp;
   <a href="https://www.instagram.com/raiseit.br/">Instagram @raiseit.br</a>
+  &nbsp;·&nbsp;
+  <a href="#english">English</a>
 </p>
 
 <p align="center">
@@ -101,11 +103,40 @@ Voz, reuniões e notas ficam no seu computador. O Kubos só usa a internet para 
 
 ---
 
-<details>
-<summary><b>In English</b></summary>
+<h2 id="english">English</h2>
 
-Kubos is a floating dock for Windows 10 and 11. It sits at the top of the screen like a notch and brings together AI agent approvals (Claude Code and Codex), voice typing and voice commands, meeting recording with live local transcription, calendar reminders, music and per-app volume, focus timer, notes and a drag-and-drop shelf, plus an Android companion app. Everything runs on your computer. The app is available in English and Portuguese.
+**Kubos** is a floating dock for Windows 10 and 11. It stays tucked away at the top of the screen like a notch and opens when you need it. It lives with **Kubos**, a little mascot that reacts to what is going on: it thinks while an AI agent works, lets you know when something needs your attention and changes its look with the theme you pick. Everything runs on your computer, and the app is available in English and Portuguese.
 
-[Download the latest version](https://github.com/vic-hgo/kubos-releases/releases/latest) · Made by Victor, from Belo Horizonte, Brazil · [@raiseit.br](https://www.instagram.com/raiseit.br/)
+**[⬇ Download the latest version](https://github.com/vic-hgo/kubos-releases/releases/latest)**
 
-</details>
+### What it does
+
+| | |
+|---|---|
+| **Claude Code and Codex** | Permission requests show up on the dock: approve with one click or Ctrl+Alt+Enter, watch edits live and reply when the agent is done. |
+| **Voice** | Press Ctrl twice and dictate into any field. Or say "Hey, Kubos" and ask for volume, a timer, a web search, a WhatsApp message or a screenshot. Understands English and Portuguese, and transcription happens on your PC. |
+| **Meetings** | Records your voice and the call audio, transcribes live and tells speakers apart. Everything stays on your computer, with search. |
+| **Calendar** | Google Calendar or Outlook, with a heads-up 10 minutes before: Join, Join and record, or 5 more minutes. |
+| **Everyday** | Music and per-app volume, focus timer, notes, a drag-and-drop shelf for files, Wi-Fi, Bluetooth and shortcuts. |
+| **Your way** | 27 Kubos themes (some animated, like Lava, Aquarium and Neon), 11 dock themes, light and dark mode, sounds and your own shortcuts. |
+| **On your phone** | An Android app with widgets and notifications that talks to your PC over your home Wi-Fi: notes, agent summary, "Open on PC" and find your phone by voice. |
+
+### How to install
+
+1. Download `Kubos_<version>_x64-setup.exe` from the [latest release](https://github.com/vic-hgo/kubos-releases/releases/latest).
+2. Run the installer. It is not code-signed yet, so Windows may say "Windows protected your PC": click **More info**, then **Run anyway**.
+3. That's it. No administrator rights or internet connection needed to install.
+
+From then on Kubos **updates itself**: when a new version is out, it lets you know in the Hub and installs with one click. For the phone app, open Hub › Phone on your PC and scan the QR code with your Android phone.
+
+Windows 10 and 11 (64-bit). English and Portuguese.
+
+### Who makes it
+
+I'm **Victor**, 31, from Belo Horizonte, Brazil. I work as a planning manager and, outside of work, I build tools for my own day-to-day with the help of AI. I studied web design back in 2012 and, even though I never worked in the field, I spent years tinkering with CSS and website themes. Kubos brings together my love for good visuals and my habit of automating everything I can.
+
+Kubos is a **RAISEIT** project. Found a bug or have an idea? Reach out on Instagram: **[@raiseit.br](https://www.instagram.com/raiseit.br/)**.
+
+### Privacy
+
+Voice, meetings and notes stay on your computer. Kubos only goes online to download the voice models (with your permission), check for updates here on GitHub and read the calendar you connect.
