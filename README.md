@@ -40,9 +40,10 @@ O Kubos é uma **Dock flutuante** para Windows 10 e 11. Ela fica recolhida no to
 | **Voz** | Aperte Ctrl duas vezes e dite em qualquer campo. Ou diga "Ei, Kubos" e peça: volume, timer, pesquisa, mensagem no WhatsApp, print. Entende português e inglês, e a transcrição é feita no próprio PC. |
 | **Reuniões** | Grava a sua voz e o som da chamada, transcreve ao vivo e separa quem falou. Fica tudo guardado no seu computador, com busca. |
 | **Agenda** | Google Agenda ou Outlook, com aviso 10 minutos antes: Entrar, Entrar e gravar ou mais 5 minutos. |
-| **Dia a dia** | Música e volume por app, timer de foco, notas, prateleira de arrastar e soltar arquivos, Wi-Fi, Bluetooth e atalhos. |
+| **Prateleira** | Um lugar para deixar arquivos à mão: arraste para a Dock, leve depois para qualquer app. E a ponte entre o celular e o PC (veja abaixo). |
+| **Dia a dia** | Música e volume por app, timer de foco, notas, Wi-Fi, Bluetooth e atalhos. |
 | **Do seu jeito** | 27 temas do Kubos (alguns animados, como Lava, Aquário e Néon), 11 temas da Dock, modo claro e escuro, sons e atalhos que você define. |
-| **No celular** | Um app Android com widgets e notificações que conversa com o PC pelo Wi-Fi de casa: notas, resumo do agente, "Abrir no PC" e achar o celular pela voz. |
+| **No celular** | Um app Android com widgets e notificações que conversa com o PC pelo Wi-Fi de casa: Prateleira, notas, resumo do agente, "Abrir no PC" e achar o celular pela voz. |
 
 <table>
   <tr>
@@ -53,6 +54,17 @@ O Kubos é uma **Dock flutuante** para Windows 10 e 11. Ela fica recolhida no to
     <td colspan="2"><img src="assets/limites.png" alt="Codex conectado e limites do plano"><br><sub>Agentes conectados e o uso do plano</sub></td>
   </tr>
 </table>
+
+### Prateleira: do celular para o PC e de volta
+
+A Prateleira é o jeito mais rápido de passar documentos, fotos e textos entre o celular e o computador, sem cabo, e-mail ou mandar mensagem para si mesmo.
+
+- **Do celular para o PC:** mande uma foto ou um arquivo pelo app, ou use o **Compartilhar** de qualquer app do Android. Ele aparece na Prateleira da Dock e fica salvo em `DocumentosKubos do celular`, com a data na frente.
+- **Do PC para o celular:** o que está na Prateleira da Dock aparece no app, com miniatura. Toque para baixar (ou baixe tudo de uma vez) e o arquivo vai para `Download/Kubos` no celular.
+- **Copiar e colar:** copie um texto no PC e cole no celular, ou o contrário, pelo widget ou pela aba Prateleira.
+- **No PC:** arraste arquivos para a Dock e leve depois para o e-mail, o navegador ou qualquer pasta. Os prints que você pede ao Kubos também caem lá.
+
+Cada arquivo mostra de onde veio, o celular ou o computador. Tudo passa pelo Wi-Fi de casa, direto entre os dois aparelhos.
 
 ### O Hub
 
@@ -117,9 +129,21 @@ Voz, reuniões e notas ficam no seu computador. O Kubos só usa a internet para 
 | **Voice** | Press Ctrl twice and dictate into any field. Or say "Hey, Kubos" and ask for volume, a timer, a web search, a WhatsApp message or a screenshot. Understands English and Portuguese, and transcription happens on your PC. |
 | **Meetings** | Records your voice and the call audio, transcribes live and tells speakers apart. Everything stays on your computer, with search. |
 | **Calendar** | Google Calendar or Outlook, with a heads-up 10 minutes before: Join, Join and record, or 5 more minutes. |
-| **Everyday** | Music and per-app volume, focus timer, notes, a drag-and-drop shelf for files, Wi-Fi, Bluetooth and shortcuts. |
+| **Shelf** | A place to keep files at hand: drop them on the dock, drag them into any app later. And the bridge between your phone and your PC (see below). |
+| **Everyday** | Music and per-app volume, focus timer, notes, Wi-Fi, Bluetooth and shortcuts. |
 | **Your way** | 27 Kubos themes (some animated, like Lava, Aquarium and Neon), 11 dock themes, light and dark mode, sounds and your own shortcuts. |
-| **On your phone** | An Android app with widgets and notifications that talks to your PC over your home Wi-Fi: notes, agent summary, "Open on PC" and find your phone by voice. |
+| **On your phone** | An Android app with widgets and notifications that talks to your PC over your home Wi-Fi: Shelf, notes, agent summary, "Open on PC" and find your phone by voice. |
+
+### Shelf: from your phone to your PC and back
+
+The Shelf is the fastest way to move documents, photos and text between your phone and your computer, with no cable, no email and no messaging yourself.
+
+- **Phone to PC:** send a photo or a file from the app, or use **Share** from any Android app. It shows up on the dock's Shelf and is saved to `DocumentsKubos from phone`, with the date in front.
+- **PC to phone:** whatever is on the dock's Shelf shows up in the app, with a thumbnail. Tap to download (or download everything at once) and the file goes to `Download/Kubos` on your phone.
+- **Copy and paste:** copy text on your PC and paste it on your phone, or the other way around, from the widget or the Shelf tab.
+- **On your PC:** drop files on the dock and drag them into an email, the browser or any folder later. Screenshots you ask Kubos for land there too.
+
+Each file shows where it came from, phone or computer. Everything travels over your home Wi-Fi, straight between the two devices.
 
 ### How to install
 
