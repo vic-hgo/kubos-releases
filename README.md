@@ -66,6 +66,11 @@ A Prateleira é o jeito mais rápido de passar documentos, fotos e textos entre 
 
 Cada arquivo mostra de onde veio, o celular ou o computador. Tudo passa pelo Wi-Fi de casa, direto entre os dois aparelhos.
 
+<p align="center">
+  <img src="assets/prateleira.png" width="640" alt="A Prateleira na Dock, com uma foto que veio do celular">
+  <br><sub>A Prateleira na Dock: é só arrastar um item para o Explorer, o navegador ou outro app.</sub>
+</p>
+
 ### O Hub
 
 Tudo se ajusta numa janela só: temas, voz, reuniões, agenda, atalhos e o celular. A primeira página explica cada parte do Kubos com exemplos.
@@ -144,6 +149,10 @@ The Shelf is the fastest way to move documents, photos and text between your pho
 - **On your PC:** drop files on the dock and drag them into an email, the browser or any folder later. Screenshots you ask Kubos for land there too.
 
 Each file shows where it came from, phone or computer. Everything travels over your home Wi-Fi, straight between the two devices.
+
+<p align="center">
+  <img src="assets/prateleira.png" width="640" alt="The Shelf on the dock, with a photo sent from the phone">
+</p>
 
 ### How to install
 
